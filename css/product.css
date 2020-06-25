@@ -1,0 +1,492 @@
+.nav-link, .need, .debug, .out, .sens, .elec, .footer{
+    font-family: 'Noto Sans TC', sans-serif;
+}
+
+/*320*/
+@media (min-width: 320px) {
+    /*navbar*/
+    .navbar-brand{
+        width: 64px;
+        height: 82px;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    /*movie*/
+    .mov{
+        padding: 0px;
+        margin: 10px auto;
+    }
+
+    .movie{
+        text-align: center;
+        width: 320px;
+        height: 180px;
+        padding: 0px;
+        margin: 0px 20px;
+    }
+
+    /*img*/
+    .bimg{
+        padding: 0px;
+        margin: 30px 10px;
+    }
+
+    .b{
+        text-align: center;
+        padding: 0px;
+        margin: 20px 0px;
+    }
+    
+    .sbi{
+        width: 100%;
+    }
+
+    .bi{
+        display: none;
+    }
+
+    /*need*/
+    .need{
+        text-align: center;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    .title{
+        text-align: left;
+        font-size: 20px;
+        font-weight: 600;
+        line-height: 30px;
+        letter-spacing: 3px;
+        padding: 0px;
+        margin: 10px 10px;
+    }
+
+    .nt{
+        text-align: left;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    /*debug*/
+    .debug{
+        text-align: center;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    .dt{
+        text-align: left;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    /*out*/
+    .out{
+        text-align: center;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    .ot{
+        text-align: left;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    /*sensor*/
+    .sens{
+        text-align: center;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    .st{
+        text-align: left;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    /*electricity*/
+    .elec{
+        text-align: center;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    .et{
+        text-align: left;
+        font-size: 14px;
+        line-height: 25px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 40px 10px;
+    }
+
+    /*time*/
+    .time{
+        text-align: center;
+        padding: 0px;
+        margin: 40px auto 30px;
+    }
+
+    .sti{
+        width: 100%;
+    }
+
+    .ti{
+        display: none;
+    }
+
+    /*footer*/
+    .footer{
+        height: 360px;
+        text-align: center;
+        background-color: #f2f2f2;
+        padding: 0px;
+        margin: 20px 0px 0px;
+    }
+
+    .fimg{
+        padding: 0px;
+        margin: 0px;
+    }
+    
+    .fl{
+        width: 49px;
+        height: 60px;
+        padding: 0px;
+        margin: 20px 0px 10px;
+    }
+
+    .about{
+        height: 90px;
+        text-align: center;
+        padding: 0px;
+        margin: 0px auto;
+    }
+
+    .r{
+        padding: 0px;
+        margin: 8px 0px;
+    }
+
+    .follow{
+        height: 90px;
+        text-align: center;
+        padding: 0px;
+        margin: 0px auto;
+    }
+
+    .fb{
+        width: 40px;
+    }
+
+    .ff{
+        text-align: center;
+        padding: 0px;
+        margin: 10px 0px 0px;
+    }
+
+    .contact{
+        height: 90px;
+        text-align: center;
+        padding: 0px;
+        margin: 0px auto;
+    }
+
+    .ft{
+        font-size: 18px;
+        line-height: 24px;
+        letter-spacing: 1.5px;
+        padding: 0px;
+        margin: 15px 0px 0px;
+    }
+
+    .fp{
+        font-size: 12px;
+        letter-spacing: 1px;
+        line-height: 20px;
+        color: black;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .fp:visited{
+        text-decoration: none;
+        color: #2ebce9;
+    }
+
+    .fp:hover{
+        text-decoration: none;
+        color: #2ebce9;
+    }
+    
+    .fm{
+        font-size: 12px;
+        letter-spacing: 0px;
+        line-height: 20px;
+    }
+}
+
+@media (min-width: 1280px) {
+    /*navbar*/
+    .navbar-brand{
+        width: 98px;
+        height: 120px;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .navbar{
+        padding: 0px;
+        margin: 0px 140px;
+    }
+
+    .navbar-nav{
+        float: right;
+    }
+
+    /*movie*/
+    .mov{
+        padding: 0px;
+        margin: 30px auto;
+    }
+
+    .movie{
+        width: 896px;
+        height: 504px;
+        text-align: center;
+        padding: 0px;
+        margin: 0px 310px;
+    }
+
+    /*img*/
+    .bimg{
+        padding: 0px;
+        margin: 70px 310px;
+    }
+
+    .b{
+        text-align: center;
+        padding: 0px;
+        margin: 50px 0px;
+    }
+    
+    .sbi{
+        display: none;
+    }
+
+    .bi{
+        display: flex;
+        width: 896px;
+        padding: 0px;
+        margin: 50px 0px;
+    }
+
+    /*need*/
+    .need{
+        width: 896px;
+        text-align: center;
+        padding: 0px;
+        margin: 70px auto;
+    }
+
+    .title{
+        text-align: left;
+        font-size: 30px;
+        font-weight: 600;
+        line-height: 40px;
+        letter-spacing: 7px;
+        padding: 0px;
+        margin: 20px 0;
+    }
+
+    .nt{
+        text-align: left;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 90px 0;
+    }
+
+    /*debug*/
+    .debug{
+        width: 896px;
+        text-align: center;
+        padding: 0px;
+        margin: 90px auto;
+    }
+
+    .dt{
+        text-align: left;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 30px 0;
+    }
+
+    /*out*/
+    .out{
+        width: 896px;
+        text-align: center;
+        padding: 0px;
+        margin: 70px auto 40px;
+    }
+
+    .ot{
+        text-align: left;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 30px 0;
+    }
+
+    /*sensor*/
+    .sens{
+        width: 896px;
+        text-align: center;
+        padding: 0px;
+        margin: 70px auto 40px;
+    }
+
+    .st{
+        text-align: left;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 70px 0;
+    }
+
+    /*electricity*/
+    .elec{
+        width: 896px;
+        text-align: center;
+        padding: 0px;
+        margin: 70px auto 40px;
+    }
+
+    .et{
+        text-align: left;
+        font-size: 20px;
+        line-height: 30px;
+        letter-spacing: 2px;
+        padding: 0px;
+        margin: 30px 0;
+    }
+
+    /*time*/
+    .time{
+        width: 896px;
+        text-align: center;
+        padding: 0px;
+        margin: 80px auto 60px;
+    }
+
+    .sti{
+        display: none;
+    }
+
+    .ti{
+        display: flex;
+        width: 896px;
+    }
+
+    /*footer*/
+    .footer{
+        height: 200px;
+        background-color: #f2f2f2;
+        padding: 0px;
+        margin: 95px 0px 0px;
+    }
+
+    .cont{
+        padding: 0px;
+        margin: 0px 140px;
+    }
+
+    .fimg{
+        width: 122px;
+        padding: 0px;
+        margin: 0px 0px 0px 0px;
+    }
+    
+    .fl{
+        display: flex;
+        width: 98px;
+        height: 120px;
+        padding: 0px;
+        margin: 44px 0px 0px;
+    }
+
+    .about{
+        width: 120px;
+        padding: 0px;
+        margin: 0px 140px;
+    }
+
+    .r{
+        padding: 0px;
+        margin: 14px 0px 0px;
+    }
+
+    .follow{
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .ff{
+        padding: 0px;
+        margin: 14px 0px 0px;
+    }
+
+    .contact{
+        padding: 0px;
+        margin: 0px 0px 0px 140px;
+    }
+
+    .ft{
+        font-size: 18px;
+        letter-spacing: 1.5px;
+        line-height: 24px;
+        font-weight: 400;
+        padding: 0px;
+        margin: 60px 0px 0px;
+    }
+
+    .fp{
+        font-size: 16px;
+        letter-spacing: 1px;
+        line-height: 22px;
+        color: black;
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .fp:hover{
+        color: #2ebce9;
+    }
+    
+    .fm{
+        font-size: 14px;
+        letter-spacing: 1px;
+        line-height: 20px;
+    }
+}
